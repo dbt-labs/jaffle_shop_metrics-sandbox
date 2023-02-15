@@ -1,7 +1,9 @@
 name: 'jaffle_shop_metrics'
 
+
+version: '1.3.0'
 config-version: 2
-version: '0.1'
+require-dbt-version: '>=1.0.0'
 
 profile: 'jaffle_shop_metrics'
 
